@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1115092645249822720</ID>
+  <Details>Link with a Sword ig</Details>
+  <State />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>1</Timestamps>
+  <CustomTimestamp>2022-09-30T02:00:00</CustomTimestamp>
+  <LargeKey>https://assets-prd.ignimgs.com/2022/09/14/zelda-tears-of-the-kingdom-button-2k-1663127818777.jpg</LargeKey>
+  <LargeText>Zelda</LargeText>
+  <SmallKey />
+  <SmallText />
+  <Button1Text />
+  <Button1URL />
+  <Button2Text>Preset made by</Button2Text>
+  <Button2URL>https://github.com/dragonGRaf1312</Button2URL>
+</Preset>
