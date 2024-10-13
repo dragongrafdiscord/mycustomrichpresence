@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1254282914653278268</ID>
+  <Details>Chilling in the Meta Verse</Details>
+  <State />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>4</Timestamps>
+  <CustomTimestamp>2024-06-05T21:38:38</CustomTimestamp>
+  <LargeKey>https://lever-client-logos.s3.us-west-2.amazonaws.com/16c5d1d1-0ac1-4408-b9c1-b6e5457f2d8d-1639614056718.png</LargeKey>
+  <LargeText />
+  <SmallKey />
+  <SmallText />
+  <Button1Text>Steam Link</Button1Text>
+  <Button1URL>https://store.steampowered.com/app/438100/VRChat/</Button1URL>
+  <Button2Text />
+  <Button2URL />
+</Preset>

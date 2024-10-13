@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ID>1036106590899687424</ID>
-  <Details />
+  <ID>1260081293098487819</ID>
+  <Details>Playtime 47½ Hours</Details>
   <State />
   <PartySize>0</PartySize>
   <PartyMax>0</PartyMax>
   <Timestamps>4</Timestamps>
   <CustomTimestamp>2022-09-30T02:00:00</CustomTimestamp>
-  <LargeKey>https://media1.tenor.com/m/G0cOfBnj1moAAAAC/sandman-family-guy.gif</LargeKey>
+  <LargeKey>https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5</LargeKey>
   <LargeText />
   <SmallKey />
   <SmallText />
-  <Button1Text />
-  <Button1URL />
+  <Button1Text>Steam</Button1Text>
+  <Button1URL>https://store.steampowered.com/app/1091500/Cyberpunk_2077/</Button1URL>
   <Button2Text />
   <Button2URL />
 </Preset>

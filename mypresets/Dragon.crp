@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ID>1036106590899687424</ID>
+  <ID>1248786295216668792</ID>
   <Details />
   <State />
   <PartySize>0</PartySize>
   <PartyMax>0</PartyMax>
-  <Timestamps>4</Timestamps>
-  <CustomTimestamp>2022-09-30T02:00:00</CustomTimestamp>
-  <LargeKey>https://media1.tenor.com/m/G0cOfBnj1moAAAAC/sandman-family-guy.gif</LargeKey>
+  <Timestamps>0</Timestamps>
+  <CustomTimestamp>2024-06-05T21:38:38</CustomTimestamp>
+  <LargeKey />
   <LargeText />
   <SmallKey />
   <SmallText />
