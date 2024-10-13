@@ -22,9 +22,10 @@ IF you have any questions contact me on discord @dragongraf
 
 ![2023-04-11 09_21_07-#presets _ CustomRP - Discord](https://user-images.githubusercontent.com/65346683/231086530-264dcf15-6c0d-4200-9d8b-b630a8d7fe22.png)
 
-* Counter Strike 2.crp
+* Crazy.crp
 
-![image](https://user-images.githubusercontent.com/65346683/230788817-640d3a99-0982-4b78-a4eb-ac97dc5eace2.png)
+![image](https://github.com/user-attachments/assets/5ec2d878-a689-46dd-989b-03a1b896b181)
+
 * Equalizer_APO.crp
 
 ![image](https://user-images.githubusercontent.com/65346683/230788854-c1f31d81-c8fd-4704-970f-316af90ff772.png)
@@ -93,6 +94,14 @@ IF you have any questions contact me on discord @dragongraf
 no preview currently
 * sleeping.crp
 no preview currently
+
+### Presets that im not hosting
+meaning you will have to create your own https://discord.com/developers/applications to use it, you can use the existing presets as a template, you mostly only need to replace the application ID
+
+* beastboy.crp
+
+![image](https://github.com/user-attachments/assets/a383543c-11f1-4aca-87f8-e31609bceb1f)
+
 
 ## Preview for otherpeoplespresets
 
