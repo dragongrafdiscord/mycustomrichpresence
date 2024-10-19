@@ -20,42 +20,50 @@ IF you have any questions contact me on discord @dragongraf
 
 * Call of Duty Black Ops 2.crp
 
-![2023-06-05 03_43_55-#presets _ CustomRP - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/ad02bd70-c17d-4121-856c-6bb14d4b7da7)
+![image](https://github.com/user-attachments/assets/475b37e6-afb8-4136-8554-1efa79cc4a94)
 
 * Crazy.crp
 
-![image](https://github.com/user-attachments/assets/5ec2d878-a689-46dd-989b-03a1b896b181)
+![image](https://github.com/user-attachments/assets/294f0d8e-26e9-4bd1-a13a-c98ecc00d6eb)
 
 * editing.crp
 
-![image](https://user-images.githubusercontent.com/65346683/230789278-c7b57338-cc82-47b7-ab7e-a2f7a6bd4119.png)
+![image](https://github.com/user-attachments/assets/cd7e3b55-8995-4dc5-93fa-b7e4483a236f)
 
 * Pornhub.crp
 
-![2023-04-09 20_02_04-#presets _ CustomRP - Discord](https://user-images.githubusercontent.com/65346683/230788977-b47643a1-b32e-400d-ac76-efd0e33e54e2.png)
+![image](https://github.com/user-attachments/assets/70941a33-216b-40d1-8dfc-8b5d1f601664)
 
-* python preset for bane02.crp
+* python preset DE.crp
 
-![2023-05-20 01_59_37-@Halbermonatslhon - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/dd74a5bc-e153-4163-b27b-07387d119d91)
+![image](https://github.com/user-attachments/assets/9bd86105-3845-4c33-9560-e4d3e0fde82f)
+
+* sleeping.crp
+
+![image](https://github.com/user-attachments/assets/6ff32da9-d461-44ff-8bf4-d327e0b67d99)
 
 * THE BIRD IS THE WORD.crp
 
-![image](https://user-images.githubusercontent.com/65346683/230789052-ab68de3c-447b-4bde-9a89-de2535e92f5f.png)
+![image](https://github.com/user-attachments/assets/1352c01d-ef5e-4832-ac37-8e8604649435)
 
 * Visual_Studio.crp
 
-![image](https://user-images.githubusercontent.com/65346683/230789199-c743d2cd-5767-453c-9c3a-66a8362ec33e.png)
+![image](https://github.com/user-attachments/assets/32aadf52-b6f2-466e-ba89-b6363da393f7)
+
+* youtube.crp
+
+![image](https://github.com/user-attachments/assets/37ef13fb-2f44-4a46-ad3f-8915d3a25531)
 
 * youtube_v2.crp
 
-![2023-04-11 09_21_07-#presets _ CustomRP - Discord](https://user-images.githubusercontent.com/65346683/231086530-264dcf15-6c0d-4200-9d8b-b630a8d7fe22.png)
+![image](https://github.com/user-attachments/assets/b6a98879-2ef6-4314-983f-967a44a21715)
 
 ### Presets that im not hosting
 meaning you will have to create your own https://discord.com/developers/applications to use it, you can use the existing presets as a template, you mostly only need to replace the application ID
 
 * beastboy.crp
 
-![image](https://github.com/user-attachments/assets/a383543c-11f1-4aca-87f8-e31609bceb1f)
+![image](https://github.com/user-attachments/assets/7a0d66f3-eec4-4beb-8f79-572f294ff61c)
 
 
 ## Preview for otherpeoplespresets
