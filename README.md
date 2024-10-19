@@ -30,6 +30,10 @@ IF you have any questions contact me on discord @dragongraf
 
 ![image](https://github.com/user-attachments/assets/cd7e3b55-8995-4dc5-93fa-b7e4483a236f)
 
+* Halloween.crp
+
+![image](https://github.com/user-attachments/assets/4e4319b1-ab8b-4fd3-8715-f84c73adc728)
+
 * Pornhub.crp
 
 ![image](https://github.com/user-attachments/assets/70941a33-216b-40d1-8dfc-8b5d1f601664)
