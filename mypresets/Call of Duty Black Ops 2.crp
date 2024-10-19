@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1295126785532366959</ID>
+  <Details>Trickshot!</Details>
+  <State>Nuketown Plant the Bomb</State>
+  <PartySize>5</PartySize>
+  <PartyMax>5</PartyMax>
+  <Timestamps>1</Timestamps>
+  <CustomTimestamp>2022-09-30T02:00:00</CustomTimestamp>
+  <LargeKey>https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png</LargeKey>
+  <LargeText>Call of Duty Black Ops 2</LargeText>
+  <SmallKey />
+  <SmallText />
+  <Button1Text />
+  <Button1URL />
+  <Button2Text>Preset made by</Button2Text>
+  <Button2URL>https://github.com/dragongrafdiscord/mycustomrichpresence</Button2URL>
+</Preset>
