@@ -18,82 +18,37 @@ IF you have any questions contact me on discord @dragongraf
 
 ## Preview for my Presets
 
-* youtube_v2.crp
+* Call of Duty Black Ops 2.crp
 
-![2023-04-11 09_21_07-#presets _ CustomRP - Discord](https://user-images.githubusercontent.com/65346683/231086530-264dcf15-6c0d-4200-9d8b-b630a8d7fe22.png)
+![2023-06-05 03_43_55-#presets _ CustomRP - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/ad02bd70-c17d-4121-856c-6bb14d4b7da7)
 
 * Crazy.crp
 
 ![image](https://github.com/user-attachments/assets/5ec2d878-a689-46dd-989b-03a1b896b181)
 
-* Equalizer_APO.crp
+* editing.crp
 
-![image](https://user-images.githubusercontent.com/65346683/230788854-c1f31d81-c8fd-4704-970f-316af90ff772.png)
+![image](https://user-images.githubusercontent.com/65346683/230789278-c7b57338-cc82-47b7-ab7e-a2f7a6bd4119.png)
 
 * Pornhub.crp
 
 ![2023-04-09 20_02_04-#presets _ CustomRP - Discord](https://user-images.githubusercontent.com/65346683/230788977-b47643a1-b32e-400d-ac76-efd0e33e54e2.png)
 
+* python preset for bane02.crp
+
+![2023-05-20 01_59_37-@Halbermonatslhon - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/dd74a5bc-e153-4163-b27b-07387d119d91)
+
 * THE BIRD IS THE WORD.crp
 
 ![image](https://user-images.githubusercontent.com/65346683/230789052-ab68de3c-447b-4bde-9a89-de2535e92f5f.png)
-
-* Trainz Railroad Simulator 2019.crp
-
-![image](https://user-images.githubusercontent.com/65346683/230789089-ce1cb709-862c-40e7-80b7-b19d7ee748c0.png)
-
-* Valorant.crp
-
-![image](https://user-images.githubusercontent.com/65346683/230789151-e728bfcf-e0bb-4c74-ae3d-28b6b50e15dd.png)
 
 * Visual_Studio.crp
 
 ![image](https://user-images.githubusercontent.com/65346683/230789199-c743d2cd-5767-453c-9c3a-66a8362ec33e.png)
 
-* Visual_Studio_Code.crp
+* youtube_v2.crp
 
-![image](https://user-images.githubusercontent.com/65346683/230789217-6cd433db-5bf5-4971-a4c1-abdb70e649b7.png)
-
-* editing.crp
-
-![image](https://user-images.githubusercontent.com/65346683/230789278-c7b57338-cc82-47b7-ab7e-a2f7a6bd4119.png)
-
-* genshin_impact.crp
-
-![image](https://user-images.githubusercontent.com/65346683/230789310-cd3ce800-c206-45fc-aaf2-f926468c2de2.png)
-
-* python preset for bane02.crp
-
-![2023-05-20 01_59_37-@Halbermonatslhon - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/dd74a5bc-e153-4163-b27b-07387d119d91)
-
-* Call of Duty Black Ops 2.crp
-
-![2023-06-05 03_43_55-#presets _ CustomRP - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/ad02bd70-c17d-4121-856c-6bb14d4b7da7)
-
-* gtasantos.crp
-
-![2023-06-05 03_34_22-#presets _ CustomRP - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/b28bf833-4b21-455c-8ad5-e317e181bec6)
-
-* PUBG.crp
-
-![2023-06-05 03_38_13-#presets _ CustomRP - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/a57e889d-8616-4803-a745-478151b44cbb)
-
-* Zelda Tears of the Kingdom
-
-![2023-06-05 03_40_47-#presets _ CustomRP - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/5f51af6d-b3cd-4fec-aa70-103b1fb34442)
-
-* Epic Games
-
-![2023-06-18 05_42_04-#presets _ CustomRP - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/705411c2-e10a-4ec1-a755-2baae773fc3c)
-
-* Free Fire
-
-![2023-06-18 05_29_05-#presets _ CustomRP - Discord](https://github.com/dragonGRaf1312/mycustomrichpresence/assets/65346683/70b1b467-655c-48ab-ab22-f9fa5c09fadb)
-
-* notonpc.crp
-no preview currently
-* sleeping.crp
-no preview currently
+![2023-04-11 09_21_07-#presets _ CustomRP - Discord](https://user-images.githubusercontent.com/65346683/231086530-264dcf15-6c0d-4200-9d8b-b630a8d7fe22.png)
 
 ### Presets that im not hosting
 meaning you will have to create your own https://discord.com/developers/applications to use it, you can use the existing presets as a template, you mostly only need to replace the application ID
