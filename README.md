@@ -69,6 +69,9 @@ meaning you will have to create your own https://discord.com/developers/applicat
 
 ![image](https://github.com/user-attachments/assets/7a0d66f3-eec4-4beb-8f79-572f294ff61c)
 
+* demonic.crp
+
+![image](https://github.com/user-attachments/assets/c518e7e0-0bb8-41f7-85ed-2d0d3789dbc0)
 
 ## Preview for otherpeoplespresets
 
