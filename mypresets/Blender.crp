@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1358408218040340520</ID>
+  <Type>0</Type>
+  <Details>Working on a Blender Project</Details>
+  <State />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>1</Timestamps>
+  <CustomTimestamp>2022-09-30T02:00:00</CustomTimestamp>
+  <LargeKey>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nfwz2CVrklNmxCsKR4U-HOeTxpgMCF3obQ&amp;s</LargeKey>
+  <LargeText>Crazy? I was crazy once. They locked me in a room. A rubber room. A rubber room with rats. And rats make me crazy. Crazy? I was</LargeText>
+  <SmallKey />
+  <SmallText />
+  <Button1Text>Blender Download</Button1Text>
+  <Button1URL>https://youtube.com/shorts/4dKVx8_WAIs</Button1URL>
+  <Button2Text>Get this and many other presets</Button2Text>
+  <Button2URL>https://github.com/dragongrafdiscord/mycustomrichpresence</Button2URL>
+</Preset>

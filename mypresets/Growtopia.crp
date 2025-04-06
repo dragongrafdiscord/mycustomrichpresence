@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1358411469368328412</ID>
+  <Type>0</Type>
+  <Details>Playing this Terraria like free game</Details>
+  <State />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>1</Timestamps>
+  <CustomTimestamp>2022-09-30T02:00:00</CustomTimestamp>
+  <LargeKey>https://upload.wikimedia.org/wikipedia/en/3/3c/Growtopia.jpg</LargeKey>
+  <LargeText />
+  <SmallKey />
+  <SmallText />
+  <Button1Text>Website</Button1Text>
+  <Button1URL>https://growtopiagame.com/</Button1URL>
+  <Button2Text>Get this and many other presets</Button2Text>
+  <Button2URL>https://github.com/dragongrafdiscord/mycustomrichpresence</Button2URL>
+</Preset>
