@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID />
+  <Type>0</Type>
+  <Display>0</Display>
+  <Name>Red Bull</Name>
+  <Details>Gives You Wings</Details>
+  <DetailsURL />
+  <State>Drinking Red Bull</State>
+  <StateURL />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>0</Timestamps>
+  <CustomTimestamp>2026-08-13T12:00:00</CustomTimestamp>
+  <CustomTimestampEndEnabled>false</CustomTimestampEndEnabled>
+  <CustomTimestampEnd>2026-08-13T12:00:00</CustomTimestampEnd>
+  <LargeKey>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lattina_di_Red_Bull.jpg/960px-Lattina_di_Red_Bull.jpg</LargeKey>
+  <LargeText>Red Bull</LargeText>
+  <LargeURL>https://www.redbull.com/</LargeURL>
+  <SmallKey />
+  <SmallText />
+  <SmallURL />
+  <Button1Text>Red Bull</Button1Text>
+  <Button1URL>https://www.redbull.com/</Button1URL>
+  <Button2Text>Get this and many other presets</Button2Text>
+  <Button2URL>https://github.com/dragongrafdiscord/mycustomrichpresence</Button2URL>
+</Preset>
