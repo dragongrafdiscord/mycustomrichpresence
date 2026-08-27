@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID />
+  <Type>0</Type>
+  <Display>0</Display>
+  <Name>Dragon</Name>
+  <Details />
+  <DetailsURL />
+  <State />
+  <StateURL />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>0</Timestamps>
+  <CustomTimestamp>2024-06-05T21:38:38</CustomTimestamp>
+  <CustomTimestampEndEnabled>false</CustomTimestampEndEnabled>
+  <CustomTimestampEnd>2024-06-05T21:38:38</CustomTimestampEnd>
+  <LargeKey />
+  <LargeText />
+  <LargeURL />
+  <SmallKey />
+  <SmallText />
+  <SmallURL />
+  <Button1Text />
+  <Button1URL />
+  <Button2Text />
+  <Button2URL />
+</Preset>

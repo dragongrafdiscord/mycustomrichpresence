@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID />
+  <Type>0</Type>
+  <Display>0</Display>
+  <Name>Arch Linux (Tofix)</Name>
+  <Details>I use Arch btw</Details>
+  <DetailsURL />
+  <State>My local time ⬇️</State>
+  <StateURL />
+  <PartySize>0</PartySize>
+  <PartyMax>1</PartyMax>
+  <Timestamps>2</Timestamps>
+  <CustomTimestamp>2026-08-27T00:00:00</CustomTimestamp>
+  <CustomTimestampEndEnabled>false</CustomTimestampEndEnabled>
+  <CustomTimestampEnd>2026-08-27T00:00:00</CustomTimestampEnd>
+  <LargeKey>https://www.shareicon.net/data/2015/09/16/101867_archlinux_512x512.png</LargeKey>
+  <LargeText>Arch</LargeText>
+  <LargeURL />
+  <SmallKey>https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif</SmallKey>
+  <SmallText>Verified</SmallText>
+  <SmallURL />
+  <Button1Text>Arch btw</Button1Text>
+  <Button1URL>https://archlinux.org/</Button1URL>
+  <Button2Text>AUR</Button2Text>
+  <Button2URL>https://aur.archlinux.org/</Button2URL>
+</Preset>

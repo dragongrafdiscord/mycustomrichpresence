@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID />
+  <Type>0</Type>
+  <Display>0</Display>
+  <Name>Beast Boy</Name>
+  <Details>Can turn into anything! Anything?</Details>
+  <DetailsURL />
+  <State>Yes ANYTHING!</State>
+  <StateURL />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>4</Timestamps>
+  <CustomTimestamp>2022-09-30T02:00:00</CustomTimestamp>
+  <CustomTimestampEndEnabled>false</CustomTimestampEndEnabled>
+  <CustomTimestampEnd>2022-09-30T02:00:00</CustomTimestampEnd>
+  <LargeKey>https://www.dictionary.com/e/wp-content/uploads/2018/03/Beast-Boy.jpg</LargeKey>
+  <LargeText>Beast Boy</LargeText>
+  <LargeURL />
+  <SmallKey />
+  <SmallText />
+  <SmallURL />
+  <Button1Text>Who is Beast Boy</Button1Text>
+  <Button1URL>https://www.dictionary.com/e/fictional-characters/beast-boy/</Button1URL>
+  <Button2Text>Get this and many other presets</Button2Text>
+  <Button2URL>https://github.com/dragongrafdiscord/mycustomrichpresence</Button2URL>
+</Preset>

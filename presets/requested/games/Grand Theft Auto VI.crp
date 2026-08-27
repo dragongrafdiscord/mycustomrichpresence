@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID />
+  <Type>0</Type>
+  <Display>0</Display>
+  <Name>Grand Theft Auto VI</Name>
+  <Details>Exploring Vice City</Details>
+  <DetailsURL />
+  <State>Leonida</State>
+  <StateURL />
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>0</Timestamps>
+  <CustomTimestamp>2026-08-27T00:38:00</CustomTimestamp>
+  <CustomTimestampEndEnabled>false</CustomTimestampEndEnabled>
+  <CustomTimestampEnd>2026-08-27T00:38:00</CustomTimestampEnd>
+  <LargeKey>https://rockstarintel.com/wp-content/uploads/2026/06/Official_Cover_Art_landscape-1-1024x576.jpg</LargeKey>
+  <LargeText>Grand Theft Auto VI</LargeText>
+  <LargeURL>https://www.rockstargames.com/VI</LargeURL>
+  <SmallKey />
+  <SmallText />
+  <SmallURL />
+  <Button1Text>Grand Theft Auto VI</Button1Text>
+  <Button1URL>https://www.rockstargames.com/VI</Button1URL>
+  <Button2Text>Get this and many other presets</Button2Text>
+  <Button2URL>https://github.com/dragongrafdiscord/mycustomrichpresence</Button2URL>
+</Preset>
